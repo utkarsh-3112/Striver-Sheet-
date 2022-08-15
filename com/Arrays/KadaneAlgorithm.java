@@ -1,12 +1,14 @@
-
+package Arrays;
 /*
  * @UtkarshAgarwal
  *
  */
 
-// Question 4 : Kadane Algorithm
 
 public class KadaneAlgorithm {
+    public static void main(String[] args) {
+        optimized(new int[] {7, -1, 2, 3 ,5 ,7,-2});
+    }
 
 
     // Approach 1 : Brute Force
@@ -54,7 +56,7 @@ public class KadaneAlgorithm {
     // Approach 3 : Optimized
     // Time Complexity : O(N)
     // Space Complexity : O(1)
-    public int optimized(int[] nums) {
+    public static int optimized(int[] nums) {
         int maxSum = nums[0];
         int currentSum = nums[0];
         for (int i = 1; i < nums.length; i++) {

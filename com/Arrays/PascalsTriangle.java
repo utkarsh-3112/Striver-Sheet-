@@ -1,9 +1,9 @@
-/*
+package Arrays;/*
  * @UtkarshAgarwal
  *
  */
 
-// Question 2 : Pascal's Triangle
+
 
 import java.util.ArrayList;
 import java.util.List;

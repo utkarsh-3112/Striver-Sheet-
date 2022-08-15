@@ -1,9 +1,9 @@
+package Arrays;
 /*
  * @UtkarshAgarwal
  *
  */
 
-// Question 1 : Set Matrix Zeroes
 
 
 class SetMatrixZeroes {

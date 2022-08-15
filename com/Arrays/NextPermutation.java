@@ -1,9 +1,9 @@
-/*
+package Arrays;/*
  * @UtkarshAgarwal
  *
  */
 
-// Question 2 : Next Permutation
+
 
 class NextPermutation {
     public static void main(String[] args) {

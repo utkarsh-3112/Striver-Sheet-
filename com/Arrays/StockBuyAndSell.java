@@ -1,10 +1,10 @@
-
+package Arrays;
 /*
  *
  * @UtkarshAgarwal
  */
 
-// Question 4 : Stock Buy And Sell
+
 
 public class StockBuyAndSell {
 
