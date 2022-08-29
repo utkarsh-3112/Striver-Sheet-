@@ -10,8 +10,8 @@ class NextPermutation {
 
     }
     // Approach 1 : Brute Force
-    // Time complexity : O(n!)O(n!). Total possible permutations is n!n!.
-    // Space complexity : O(n)O(n). Since an array will be used to store the permutations.
+    // Time complexity : O(n!) Total possible permutations is n!n!.
+    // Space complexity : O(n) Since an array will be used to store the permutations.
 
     // Approach 2 : Optimized
     // find the break point and its greater element from back swap both than reverse the array after break point
